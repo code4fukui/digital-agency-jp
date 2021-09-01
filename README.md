@@ -6,7 +6,7 @@
 
 ### デジタル庁の組織体制
 
-- [デジタル庁の組織体制.csv](https://github.com/code4fukui/digital-agency-jp/blob/main/%E3%83%86%E3%82%99%E3%82%B7%E3%82%99%E3%82%BF%E3%83%AB%E5%BA%81%E3%81%AE%E7%B5%84%E7%B9%94%E4%BD%93%E5%88%B6.csv)
+- [デジタル庁の組織体制.csv](https://github.com/code4fukui/digital-agency-jp/blob/main/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%BA%81%E3%81%AE%E7%B5%84%E7%B9%94%E4%BD%93%E5%88%B6.csv)
 
 ### デジタル庁人事
 
