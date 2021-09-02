@@ -22,10 +22,6 @@ const merge = (data1, data2) => {
       data.push(d);
       continue;
     }
-    const n = {};
-    Object.assign(n, d);
-    Object.assign(n, d2);
-    data.push(n);
   }
   return data;
 };
@@ -58,5 +54,9 @@ const data0 = data.map(d => {
   return d2;
 });
 
+/*
+data0.sort((a, b) => a["https://schema.org/name"].localeCompare(b["https://schema.org/name"]));
+console.log(data0);
+*/
 await Deno.writeTextFile("../digital-agency-person.csv", CSV.stringify(data0));
 await Deno.writeTextFile("../digital-agency-person.json", JSON.stringify(data0, null, 2));

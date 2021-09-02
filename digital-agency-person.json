@@ -96,66 +96,6 @@
     "https://schema.org/jobTitle": "戦略・組織グループ 次長 統括官付審議官"
   },
   {
-    "https://schema.org/name": "赤石 浩一",
-    "https://code4fukui.github.io/rdf/#kana": "あかいし こういち",
-    "https://schema.org/category": "デジタル監・デジタル審議官",
-    "https://schema.org/jobTitle": "デジタル審議官"
-  },
-  {
-    "https://schema.org/name": "冨安 泰一郎",
-    "https://code4fukui.github.io/rdf/#kana": "とみやす たいいちろう",
-    "https://schema.org/category": "戦略・組織グループ",
-    "https://schema.org/jobTitle": "戦略・組織グループ グループ長 統括官"
-  },
-  {
-    "https://schema.org/name": "楠 正憲",
-    "https://code4fukui.github.io/rdf/#kana": "くすのき まさのり",
-    "https://schema.org/category": "デジタル社会共通機能グループ",
-    "https://schema.org/jobTitle": "デジタル社会共通機能グループ グループ長 統括官"
-  },
-  {
-    "https://schema.org/name": "村上 敬亮",
-    "https://code4fukui.github.io/rdf/#kana": "むらかみ けいすけ",
-    "https://schema.org/category": "国民向けサービスグループ",
-    "https://schema.org/jobTitle": "国民向けサービスグループ グループ長 統括官"
-  },
-  {
-    "https://schema.org/name": "篠原 俊博",
-    "https://code4fukui.github.io/rdf/#kana": "しのはら としひろ",
-    "https://schema.org/category": "省庁業務サービスグループ",
-    "https://schema.org/jobTitle": "省庁業務サービスグループ グループ長 統括官"
-  },
-  {
-    "https://schema.org/name": "山本 和徳",
-    "https://code4fukui.github.io/rdf/#kana": "やまもと かずのり",
-    "https://schema.org/category": "戦略・組織グループ",
-    "https://schema.org/jobTitle": "戦略・組織グループ 次長 統括官付審議官"
-  },
-  {
-    "https://schema.org/name": "犬童 周作",
-    "https://code4fukui.github.io/rdf/#kana": "いんどう しゅうさく",
-    "https://schema.org/category": "デジタル社会共通機能グループ",
-    "https://schema.org/jobTitle": "デジタル社会共通機能グループ 次長 統括官付審議官"
-  },
-  {
-    "https://schema.org/name": "菅原 希",
-    "https://code4fukui.github.io/rdf/#kana": "すがわら のぞむ",
-    "https://schema.org/category": "省庁業務サービスグループ",
-    "https://schema.org/jobTitle": "省庁業務サービスグループ 次長 統括官付審議官"
-  },
-  {
-    "https://schema.org/name": "早瀬 千善",
-    "https://code4fukui.github.io/rdf/#kana": "はやせ かずよし",
-    "https://schema.org/category": "省庁業務サービスグループ",
-    "https://schema.org/jobTitle": "省庁業務サービスグループ 次長 統括官付審議官"
-  },
-  {
-    "https://schema.org/name": "内山 博之",
-    "https://code4fukui.github.io/rdf/#kana": "うちやま ひろゆき",
-    "https://schema.org/category": "国民向けサービスグループ",
-    "https://schema.org/jobTitle": "国民向けサービスグループ 次長 併任 統括官付"
-  },
-  {
     "https://schema.org/name": "二宮 清治",
     "https://schema.org/jobTitle": "併任 統括官付"
   },
