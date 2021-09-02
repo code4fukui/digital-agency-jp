@@ -7,15 +7,17 @@
 ### デジタル庁の組織体制
 
 - [デジタル庁の組織体制.csv](https://github.com/code4fukui/digital-agency-jp/blob/main/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%BA%81%E3%81%AE%E7%B5%84%E7%B9%94%E4%BD%93%E5%88%B6.csv)
+- [デジタル庁の組織体制.md](https://github.com/code4fukui/digital-agency-jp/blob/main/md/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%BA%81%E3%81%AE%E7%B5%84%E7%B9%94%E4%BD%93%E5%88%B6.md)
 
 ### デジタル庁人事
 
 - [デジタル庁人事.csv](https://github.com/code4fukui/digital-agency-jp/blob/main/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%BA%81%E4%BA%BA%E4%BA%8B.csv) ※肩書に謎アリ [詳細](https://fukuno.jig.jp/3325)
+- [デジタル庁人事.md](https://github.com/code4fukui/digital-agency-jp/blob/main/md/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%BA%81%E4%BA%BA%E4%BA%8B.md) ※肩書に謎アリ [詳細](https://fukuno.jig.jp/3325)
 
 ### デジタル庁幹部名簿
 
 - [デジタル庁幹部名簿.csv](https://github.com/code4fukui/digital-agency-jp/blob/main/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%BA%81%E5%B9%B9%E9%83%A8%E5%90%8D%E7%B0%BF.csv)
-
+- [デジタル庁幹部名簿.md](https://github.com/code4fukui/digital-agency-jp/blob/main/md/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%BA%81%E5%B9%B9%E9%83%A8%E5%90%8D%E7%B0%BF.md)
 
 ## 貢献方法
 
