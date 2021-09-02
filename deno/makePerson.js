@@ -44,7 +44,7 @@ const nametable = {
   "氏名かな": "https://code4fukui.github.io/rdf/#kana",
   "種別": "https://schema.org/category",
   "肩書": "https://schema.org/jobTitle",
-  "旧": "https://schema.org/description",
+  //"旧": "https://schema.org/description",
 };
 
 const data0 = data.map(d => {
