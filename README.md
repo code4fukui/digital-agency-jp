@@ -13,6 +13,8 @@
 
 - [デジタル庁人事.csv](https://github.com/code4fukui/digital-agency-jp/blob/main/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%BA%81%E4%BA%BA%E4%BA%8B.csv) ※肩書に謎アリ [詳細](https://fukuno.jig.jp/3325)
 - [デジタル庁人事.md](https://github.com/code4fukui/digital-agency-jp/blob/main/md/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%BA%81%E4%BA%BA%E4%BA%8B.md) ※肩書に謎アリ [詳細](https://fukuno.jig.jp/3325)
+- [digital-agency-person.csv](digital-agency-person.csv)
+- [digital-agency-person.json](digital-agency-person.json)
 
 ### デジタル庁幹部名簿
 

@@ -10,11 +10,3 @@ for (const d of list) {
     title: d.タイトル,
   });
 }
-/*
-const fn = "discussionpaper.csv";
-const title = "政府CIOポータル ディスカッションペーパー";
-
-
-const html = "<meta charset='utf-8'><title>" + title + "</title>\n" + marked(md) + "<hr><a href=https://github.com/code4fukui/cio-jp>src on GitHub</a>";
-await Deno.writeTextFile(fn.substring(0, fn.length - 3) + "html", html);
-*/

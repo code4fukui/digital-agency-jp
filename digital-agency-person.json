@@ -1,0 +1,453 @@
+[
+  {
+    "https://schema.org/name": "石倉 洋子",
+    "https://code4fukui.github.io/rdf/#kana": "いしくら ようこ",
+    "https://schema.org/category": "デジタル監・デジタル審議官",
+    "https://schema.org/jobTitle": "デジタル監"
+  },
+  {
+    "https://schema.org/name": "赤石 浩一",
+    "https://code4fukui.github.io/rdf/#kana": "あかいし こういち",
+    "https://schema.org/category": "デジタル監・デジタル審議官",
+    "https://schema.org/jobTitle": "デジタル審議官",
+    "https://schema.org/description": "内閣府科学技術・イノベーション推進事務局長）併任 内閣官房内閣審議官（内閣官房副長官補付） 命 内閣官房情報通信技術(IT)総合戦略室長代理(副政府CIO）"
+  },
+  {
+    "https://schema.org/name": "江崎 浩",
+    "https://code4fukui.github.io/rdf/#kana": "えさき ひろし",
+    "https://schema.org/category": "CxO",
+    "https://schema.org/jobTitle": "Chief Architect"
+  },
+  {
+    "https://schema.org/name": "浅沼 尚",
+    "https://code4fukui.github.io/rdf/#kana": "あさぬま たかし",
+    "https://schema.org/category": "CxO",
+    "https://schema.org/jobTitle": "Chief Design Officer"
+  },
+  {
+    "https://schema.org/name": "坂 明",
+    "https://code4fukui.github.io/rdf/#kana": "さか あきら",
+    "https://schema.org/category": "CxO",
+    "https://schema.org/jobTitle": "Chief Information Security Officer"
+  },
+  {
+    "https://schema.org/name": "水島 壮太",
+    "https://code4fukui.github.io/rdf/#kana": "みずしま そうた",
+    "https://schema.org/category": "CxO",
+    "https://schema.org/jobTitle": "Chief Product Officer"
+  },
+  {
+    "https://schema.org/name": "藤本 真樹",
+    "https://code4fukui.github.io/rdf/#kana": "ふじもと まさき",
+    "https://schema.org/category": "CxO",
+    "https://schema.org/jobTitle": "Chief Technology Officer"
+  },
+  {
+    "https://schema.org/name": "楠 正憲",
+    "https://code4fukui.github.io/rdf/#kana": "くすのき まさのり",
+    "https://schema.org/category": "デジタル社会共通機能グループ",
+    "https://schema.org/jobTitle": "デジタル社会共通機能グループ グループ長 統括官",
+    "https://schema.org/description": ""
+  },
+  {
+    "https://schema.org/name": "犬童 周作",
+    "https://code4fukui.github.io/rdf/#kana": "いんどう しゅうさく",
+    "https://schema.org/category": "デジタル社会共通機能グループ",
+    "https://schema.org/jobTitle": "デジタル社会共通機能グループ 次長 統括官付審議官",
+    "https://schema.org/description": "内閣官房内閣審議官（内閣官房副長官補付） 命 内閣官房情報通信技術（IT）総合戦略室長代理（副政府CIO）"
+  },
+  {
+    "https://schema.org/name": "村上 敬亮",
+    "https://code4fukui.github.io/rdf/#kana": "むらかみ けいすけ",
+    "https://schema.org/category": "国民向けサービスグループ",
+    "https://schema.org/jobTitle": "国民向けサービスグループ グループ長 統括官",
+    "https://schema.org/description": "内閣官房内閣審議官（内閣官房副長官補付） 命 内閣官房情報通信技術（IT）総合戦略室長代理（副政府CIO）"
+  },
+  {
+    "https://schema.org/name": "内山 博之",
+    "https://code4fukui.github.io/rdf/#kana": "うちやま ひろゆき",
+    "https://schema.org/category": "国民向けサービスグループ",
+    "https://schema.org/jobTitle": "国民向けサービスグループ 次長 併任 統括官付",
+    "https://schema.org/description": "厚生労働省大臣官房付 併任 内閣官房内閣審議官（内閣官房副長官補付）命 内閣官房情報通信技術（IT)総合戦略室長代理（副政府CIO)"
+  },
+  {
+    "https://schema.org/name": "篠原 俊博",
+    "https://code4fukui.github.io/rdf/#kana": "しのはら としひろ",
+    "https://schema.org/category": "省庁業務サービスグループ",
+    "https://schema.org/jobTitle": "省庁業務サービスグループ グループ長 統括官",
+    "https://schema.org/description": "内閣官房内閣審議官（内閣官房副長官補付） 命 内閣官房情報通信技術（IT）総合戦略室長代理（副政府CIO）"
+  },
+  {
+    "https://schema.org/name": "菅原 希",
+    "https://code4fukui.github.io/rdf/#kana": "すがわら のぞむ",
+    "https://schema.org/category": "省庁業務サービスグループ",
+    "https://schema.org/jobTitle": "省庁業務サービスグループ 次長 統括官付審議官",
+    "https://schema.org/description": "総務省大臣官房審議官（行政管理局担当） 併任 内閣官房内閣審議官（内閣官房副長官補付） 命 内閣官房情報通信技術(IT)総合戦略室長代理（副政府CIO）"
+  },
+  {
+    "https://schema.org/name": "早瀬 千善",
+    "https://code4fukui.github.io/rdf/#kana": "はやせ かずよし",
+    "https://schema.org/category": "省庁業務サービスグループ",
+    "https://schema.org/jobTitle": "省庁業務サービスグループ 次長 統括官付審議官",
+    "https://schema.org/description": "採用"
+  },
+  {
+    "https://schema.org/name": "冨安 泰一郎",
+    "https://code4fukui.github.io/rdf/#kana": "とみやす たいいちろう",
+    "https://schema.org/category": "戦略・組織グループ",
+    "https://schema.org/jobTitle": "戦略・組織グループ グループ長 統括官",
+    "https://schema.org/description": "内閣官房内閣審議官（内閣官房副長官補付） 命 内閣官房番号制度推進室次長 命 内閣官房情報通信技術（IT)総合戦略室長代理（副政府CIO） 併任 内閣府大臣官房番号制度担当室次長"
+  },
+  {
+    "https://schema.org/name": "山本 和徳",
+    "https://code4fukui.github.io/rdf/#kana": "やまもと かずのり",
+    "https://schema.org/category": "戦略・組織グループ",
+    "https://schema.org/jobTitle": "戦略・組織グループ 次長 統括官付審議官",
+    "https://schema.org/description": "内閣官房内閣審議官（内閣官房副長官補付） 命 内閣官房情報通信技術（IT）総合戦略室長代理（副政府CIO）"
+  },
+  {
+    "https://schema.org/name": "赤石 浩一",
+    "https://schema.org/description": "内閣府科学技術・イノベーション推進事務局長）併任 内閣官房内閣審議官（内閣官房副長官補付） 命 内閣官房情報通信技術(IT)総合戦略室長代理(副政府CIO）",
+    "https://code4fukui.github.io/rdf/#kana": "あかいし こういち",
+    "https://schema.org/category": "デジタル監・デジタル審議官",
+    "https://schema.org/jobTitle": "デジタル審議官"
+  },
+  {
+    "https://schema.org/name": "冨安 泰一郎",
+    "https://schema.org/description": "内閣官房内閣審議官（内閣官房副長官補付） 命 内閣官房番号制度推進室次長 命 内閣官房情報通信技術（IT)総合戦略室長代理（副政府CIO） 併任 内閣府大臣官房番号制度担当室次長",
+    "https://code4fukui.github.io/rdf/#kana": "とみやす たいいちろう",
+    "https://schema.org/category": "戦略・組織グループ",
+    "https://schema.org/jobTitle": "戦略・組織グループ グループ長 統括官"
+  },
+  {
+    "https://schema.org/name": "楠 正憲",
+    "https://schema.org/description": "",
+    "https://code4fukui.github.io/rdf/#kana": "くすのき まさのり",
+    "https://schema.org/category": "デジタル社会共通機能グループ",
+    "https://schema.org/jobTitle": "デジタル社会共通機能グループ グループ長 統括官"
+  },
+  {
+    "https://schema.org/name": "村上 敬亮",
+    "https://schema.org/description": "内閣官房内閣審議官（内閣官房副長官補付） 命 内閣官房情報通信技術（IT）総合戦略室長代理（副政府CIO）",
+    "https://code4fukui.github.io/rdf/#kana": "むらかみ けいすけ",
+    "https://schema.org/category": "国民向けサービスグループ",
+    "https://schema.org/jobTitle": "国民向けサービスグループ グループ長 統括官"
+  },
+  {
+    "https://schema.org/name": "篠原 俊博",
+    "https://schema.org/description": "内閣官房内閣審議官（内閣官房副長官補付） 命 内閣官房情報通信技術（IT）総合戦略室長代理（副政府CIO）",
+    "https://code4fukui.github.io/rdf/#kana": "しのはら としひろ",
+    "https://schema.org/category": "省庁業務サービスグループ",
+    "https://schema.org/jobTitle": "省庁業務サービスグループ グループ長 統括官"
+  },
+  {
+    "https://schema.org/name": "山本 和徳",
+    "https://schema.org/description": "内閣官房内閣審議官（内閣官房副長官補付） 命 内閣官房情報通信技術（IT）総合戦略室長代理（副政府CIO）",
+    "https://code4fukui.github.io/rdf/#kana": "やまもと かずのり",
+    "https://schema.org/category": "戦略・組織グループ",
+    "https://schema.org/jobTitle": "戦略・組織グループ 次長 統括官付審議官"
+  },
+  {
+    "https://schema.org/name": "犬童 周作",
+    "https://schema.org/description": "内閣官房内閣審議官（内閣官房副長官補付） 命 内閣官房情報通信技術（IT）総合戦略室長代理（副政府CIO）",
+    "https://code4fukui.github.io/rdf/#kana": "いんどう しゅうさく",
+    "https://schema.org/category": "デジタル社会共通機能グループ",
+    "https://schema.org/jobTitle": "デジタル社会共通機能グループ 次長 統括官付審議官"
+  },
+  {
+    "https://schema.org/name": "菅原 希",
+    "https://schema.org/description": "総務省大臣官房審議官（行政管理局担当） 併任 内閣官房内閣審議官（内閣官房副長官補付） 命 内閣官房情報通信技術(IT)総合戦略室長代理（副政府CIO）",
+    "https://code4fukui.github.io/rdf/#kana": "すがわら のぞむ",
+    "https://schema.org/category": "省庁業務サービスグループ",
+    "https://schema.org/jobTitle": "省庁業務サービスグループ 次長 統括官付審議官"
+  },
+  {
+    "https://schema.org/name": "早瀬 千善",
+    "https://schema.org/description": "採用",
+    "https://code4fukui.github.io/rdf/#kana": "はやせ かずよし",
+    "https://schema.org/category": "省庁業務サービスグループ",
+    "https://schema.org/jobTitle": "省庁業務サービスグループ 次長 統括官付審議官"
+  },
+  {
+    "https://schema.org/name": "内山 博之",
+    "https://schema.org/description": "厚生労働省大臣官房付 併任 内閣官房内閣審議官（内閣官房副長官補付）命 内閣官房情報通信技術（IT)総合戦略室長代理（副政府CIO)",
+    "https://code4fukui.github.io/rdf/#kana": "うちやま ひろゆき",
+    "https://schema.org/category": "国民向けサービスグループ",
+    "https://schema.org/jobTitle": "国民向けサービスグループ 次長 併任 統括官付"
+  },
+  {
+    "https://schema.org/name": "二宮 清治",
+    "https://schema.org/description": "総務省総合通信基盤局長 併任 内閣官房内閣審議官（内閣官房副長官補付） 命 内閣官房情報通信技術（IT)総合戦略室長代理（副政府CIO)",
+    "https://schema.org/jobTitle": "併任 統括官付"
+  },
+  {
+    "https://schema.org/name": "中山 光輝",
+    "https://schema.org/description": "内閣官房内閣審議官(内閣官房副長官補付）） 命 内閣官房一億総活躍推進室次長 命 内閣官房働き方改革実現推進室次長 命 内閣官房人生100年時代構想推進室次長 命 内閣官房就職氷河期世代支援推進室次長 命 内閣官房東京オリンピック競技大会・東京パラリンピック競技大会推進本部事務局審議官 併任 内閣府政策統括官（経済財政運営担当）付 併任 内閣府本府プレミアム付商品券事業担当室 次長",
+    "https://schema.org/jobTitle": "併任 統括官付"
+  },
+  {
+    "https://schema.org/name": "八神 敦雄",
+    "https://schema.org/description": "内閣府健康・医療戦略推進事務局長併任 科学技術・イノベーション推進事務局長補  併任 日本医療研究開発機構担当室室長 併任 内閣官房内閣審議官（内閣官房副長官補付） 命内閣官房健康・医療戦略室次長 命内閣官房情報通信技術（IT)総合戦略室室員",
+    "https://schema.org/jobTitle": "併任 統括官付"
+  },
+  {
+    "https://schema.org/name": "日置 重人",
+    "https://schema.org/description": "国税庁長官官房審議官（国際担当） 併任  内閣官房副長官補付 命 内閣官房情報通信技術（IT）総合戦略室室員（～R3.8.31まで）",
+    "https://schema.org/jobTitle": "併任 統括官付"
+  },
+  {
+    "https://schema.org/name": "江口 純一",
+    "https://schema.org/description": "経済産業省大臣官房サイバーセキュリティ・情報化審議官 併任 内閣官房内閣審議官（内閣官房副長官補付）命 内閣官房情報通信技術（ＩＴ）総合戦略室長代理（副政府CIO） 併任内閣サイバーセキュリティセンター",
+    "https://schema.org/jobTitle": "併任 統括官付"
+  },
+  {
+    "https://schema.org/name": "宮崎 敦文",
+    "https://schema.org/description": "厚生労働省大臣官房審議官（健康、生活衛生、アルコール健康障害対策担当） 併任 内閣官房副長官補付 命内閣官房情報通信技術（ＩＴ）総合戦略室室員",
+    "https://schema.org/jobTitle": "併任 統括官付"
+  },
+  {
+    "https://schema.org/name": "辻 貴博",
+    "https://schema.org/description": "財務省大臣官房付 併任 内閣官房内閣審議官（内閣官房副長官補付） 命内閣官房情報通信技術（IT）総合戦略室長代理（副政府CIO） 命 内閣官房行政改革推進本部事務局局員 併任内閣府大臣官房審議官（大臣官房担当） 併任 内閣府政策統括官（経済財政運営担当）付 併任 内閣府本府規制改革推進室次長 併任 内閣府本府地方創生推進室次長 併任 内閣府地方創生推進事務局審議官 併任 内閣府本府プレミアム付商品券事業担当室次長",
+    "https://schema.org/jobTitle": "併任 統括官付"
+  },
+  {
+    "https://schema.org/name": "吉田 宏平",
+    "https://schema.org/description": "総務省大臣官房付 併任 内閣官房内閣参事官（内閣官房副長官補付） 命内閣官房情報通信技術（IT）総合戦略室参事官 併任 内閣府科学技術・イノベーション推進事務局参事官",
+    "https://schema.org/jobTitle": "統括官付参事官"
+  },
+  {
+    "https://schema.org/name": "奥田 直彦",
+    "https://schema.org/description": "総務省行政管理局行政情報システム企画課長 併任 内閣官房副長官補付命 内閣官房情報通信技術（IT）総合戦略室参事官",
+    "https://schema.org/jobTitle": "統括官付参事官 併任 統括官付公文書監理官命 公文書監理官室長"
+  },
+  {
+    "https://schema.org/name": "阿部 文彦",
+    "https://schema.org/description": "警察庁長官官房参事官（刑事手続のIT化・統計総括・サイバーセキュリティ対策調整担当）併任 内閣官房副長官補付 命 内閣官房情報通信技術（IT）総合戦略室室員",
+    "https://schema.org/jobTitle": "併任 デジタル庁統括官付参事官"
+  },
+  {
+    "https://schema.org/name": "上仮 屋尚",
+    "https://schema.org/description": "内閣官房内閣参事官（内閣官房副長官補付） 命 内閣官房番号制度推進室参事官 命 内閣官房情報通信技術（IT）総合戦略室参事 併任 内閣府大臣官房番号制度担当室参事官",
+    "https://schema.org/jobTitle": "統括官付参事官"
+  },
+  {
+    "https://schema.org/name": "徳満 純一",
+    "https://schema.org/description": "総務省大臣官房付 併任 内閣官房内閣参事官（内閣官房副長官補付）命内閣官房情報通信技術（IT）総合戦略室参事官",
+    "https://schema.org/jobTitle": "統括官付参事官"
+  },
+  {
+    "https://schema.org/name": "大澤 健",
+    "https://schema.org/description": "総務省大臣官房付 併任 内閣官房副長官補付企画官 命 内閣官房情報通信技術（IT）総合戦略室企画官",
+    "https://schema.org/jobTitle": "併任 統括官付参事官"
+  },
+  {
+    "https://schema.org/name": "松田 洋平",
+    "https://schema.org/description": "経済産業省大臣官房付 併任 内閣官房内閣参事官（内閣官房副長官補付）命 内閣官房情報通信技術（IT）総合戦略室参事官（～R3.8.31まで）",
+    "https://schema.org/jobTitle": "統括官付参事官"
+  },
+  {
+    "https://schema.org/name": "瀧島 勇樹",
+    "https://schema.org/description": "経済産業省大臣官房付 併任 内閣官房内閣参事官（内閣官房副長官補付）命 内閣官房情報通信技術（IT）総合戦略室参事官（～R3.8.31まで）",
+    "https://schema.org/jobTitle": "併任 統括官付参事官"
+  },
+  {
+    "https://schema.org/name": "門馬 圭一",
+    "https://schema.org/description": "財務省主計局局付 併任 内閣官房内閣参事官（内閣官房副長官補付） 命 内閣官房情報通信技術（IT）総合戦略室参事官",
+    "https://schema.org/jobTitle": "併任 統括官付参事官"
+  },
+  {
+    "https://schema.org/name": "田邊 光男",
+    "https://schema.org/description": "総務省大臣官房付 併任 内閣官房内閣参事官（内閣官房副長官補付） 命 内閣官房情報通信技術（IT）総合戦略室参事官 併任 農林水産省大臣官房付",
+    "https://schema.org/jobTitle": "統括官付参事官"
+  },
+  {
+    "https://schema.org/name": "山野 哲也",
+    "https://schema.org/description": "総務省大臣官房付 併任 内閣官房内閣参事官（内閣官房副長官補付） 命 内閣官房情報通信技術（IT）総合戦略室参事官（～R3.8.31まで）",
+    "https://schema.org/jobTitle": "併任 統括官付参事官"
+  },
+  {
+    "https://schema.org/name": "浦上 哲朗",
+    "https://schema.org/description": "内閣官房内閣参事官（内閣官房副長官補付） 命 内閣官房番号制度推進室参事官 命 内閣官房情報通信技術（IT）総合戦略室参事官 併任 内閣府大臣官房番号制度担当室参事官",
+    "https://schema.org/jobTitle": "統括官付参事官"
+  },
+  {
+    "https://schema.org/name": "柳沢 信高",
+    "https://schema.org/description": "金融庁総合政策局付 併任 内閣官房内閣参事官（内閣官房副長官補付） 命 内閣官房情報通信技術（IT）総合戦略室参事官（～R3.8.31まで）",
+    "https://schema.org/jobTitle": "統括官付参事官"
+  },
+  {
+    "https://schema.org/name": "名越 一郎",
+    "https://schema.org/description": "総務省大臣官房付 併任 内閣官房内閣参事官（内閣官房副長官補付） 命内閣官房情報通信技術（IT）総合戦略室参事（～R3.8.31まで）",
+    "https://schema.org/jobTitle": "併任 統括官付参事官"
+  },
+  {
+    "https://schema.org/name": "木村 公一",
+    "https://schema.org/description": "財務省大臣官房付 併任 内閣官房内閣参事官（内閣官房副長官補付 命 内閣官房情報通信技術（IT）総合戦略室参事官（～R3.8.31まで）",
+    "https://schema.org/jobTitle": "統括官付参事官"
+  },
+  {
+    "https://schema.org/name": "山本 寛繁",
+    "https://schema.org/description": "総務省行政管理局管理官 併任 行政管理局行政情報システム企画課） 併任 内閣官房副長官補付 命 内閣官房情報通信技術（IT）総合戦略室参事官）（～R3.8.31まで）",
+    "https://schema.org/jobTitle": "併任 統括官付参事官"
+  },
+  {
+    "https://schema.org/name": "板屋 英治",
+    "https://schema.org/description": "国土交通省大臣官房付 併任 内閣官房内閣参事官（内閣官房副長官補付）命 内閣官房情報通信技術（IT）総合戦略室参事官（～R3.8.31まで）",
+    "https://schema.org/jobTitle": "統括官付参事官"
+  },
+  {
+    "https://schema.org/name": "高木 有生",
+    "https://schema.org/description": "内閣府大臣官房参事官（番号制度担当） 併任 大臣官房番号制度担当室参事官 併任 内閣官房内閣参事官（内閣官房副長官補付） 命 内閣官房番号制度推進室参事官 命 内閣官房情報通信技術（IT）総合戦略室参事官",
+    "https://schema.org/jobTitle": "統括官付参事官"
+  },
+  {
+    "https://schema.org/name": "佐藤 敬",
+    "https://schema.org/description": "人事院事務総局参事官",
+    "https://schema.org/jobTitle": "統括官付参事官"
+  },
+  {
+    "https://schema.org/name": "村上 貴将",
+    "https://schema.org/description": "経済産業省大臣官房付 併任 内閣官房副長官補付企画官 命 内閣官房情報通信技術（IT）総合戦略室企画官",
+    "https://schema.org/jobTitle": "統括官付参事官"
+  },
+  {
+    "https://schema.org/name": "淺岡 孝充",
+    "https://schema.org/description": "国税庁長官官房付 併任 財務省主税局税制第一課 併任 内閣府大臣官房併任 大臣官房参事官（総務課担当）併任 大臣官房総務課秘書室 併任大臣官房番号制度担当室参事官 併任個人情報保護委員会事務局総務課 併任 内閣官房内閣参事官（内閣官房副長官補付） 命 内閣官房番号制度推進室参事官 命 内閣官房情報通信技術（IT）総合戦略室参事官",
+    "https://schema.org/jobTitle": "統括官付参事官"
+  },
+  {
+    "https://schema.org/name": "渋谷 闘志彦",
+    "https://schema.org/description": "内閣官房内閣参事官（内閣官房副長官補付） 命 内閣官房情報通信技術（IT）総合戦略室次長（～R3.8.31まで）",
+    "https://schema.org/jobTitle": "併任 統括官付参事官"
+  },
+  {
+    "https://schema.org/name": "菊川 人吾",
+    "https://schema.org/description": "経済産業省大臣官房付 併任 内閣官房内閣参事官（内閣官房副長官補付)命 内閣官房情報通信技術（IT）総合戦略室次長（～R3.8.31まで）",
+    "https://schema.org/jobTitle": "併任 統括官付参事官"
+  },
+  {
+    "https://schema.org/name": "浅野 大介",
+    "https://schema.org/description": "経済産業省商務情報政策局サービス政策課長 併任 内閣官房副長官補付命 内閣官房観光戦略実行推進室参事官 命 内閣官房情報通信技術（IT)総合戦略室室員",
+    "https://schema.org/jobTitle": "併任 統括官付参事官"
+  },
+  {
+    "https://schema.org/name": "野崎 彰",
+    "https://schema.org/description": "金融庁総合政策局付 併任 内閣官房内閣参事官（内閣官房副長官補付）命 内閣官房情報通信技術（IT）総合戦略室参事官（～R3.8.31まで） 命 内閣官房番号制度推進室参事官（～R3.8.31まで）",
+    "https://schema.org/jobTitle": "併任 統括官付参事官"
+  },
+  {
+    "https://schema.org/name": "帆足 雅史",
+    "https://schema.org/description": "総務省大臣官房付 併任 行政管理局併任 内閣官房副長官補付企画官 命内閣官房情報通信技術（IT)総合戦略室企画官（～R3.8.31まで）",
+    "https://schema.org/jobTitle": "統括官付参事官付企画官"
+  },
+  {
+    "https://schema.org/name": "吉田 楼蘭",
+    "https://schema.org/description": "8/31付辞職 防衛省大臣官房付 併任 内閣官房副長官補付企画官 命 内閣官房情報通信技術（ＩＴ）総合戦略室企画官（～R3.8.31まで）",
+    "https://schema.org/jobTitle": "採用 統括官付参事官付企画官"
+  },
+  {
+    "https://schema.org/name": "石井 啓介",
+    "https://schema.org/description": "警察庁長官官房付 併任 内閣官房副長官補付企画官 命 内閣官房情報通信技術（IT）総合戦略室企画官",
+    "https://schema.org/jobTitle": "統括官付参事官付企画官"
+  },
+  {
+    "https://schema.org/name": "佐伯 美穂",
+    "https://schema.org/description": "総務省行政評価局調査官 併任 行政評価局総務課 併任 行政評価局企画課）",
+    "https://schema.org/jobTitle": "併任 統括官付参事官付企画官"
+  },
+  {
+    "https://schema.org/name": "柳生 正毅",
+    "https://schema.org/description": "総務省大臣官房付 併任 内閣官房副長官補付企画官 命 内閣官房情報通信技術（IT）総合戦略室企画官",
+    "https://schema.org/jobTitle": "統括官付参事官付企画官 命 公文書監理官室室員"
+  },
+  {
+    "https://schema.org/name": "西室 洋介",
+    "https://schema.org/description": "総務省大臣官房付 併任 内閣官房副長官補付企画官 命 内閣官房情報通信技術（IT)総合戦略室企画官（～R3.8.31まで）",
+    "https://schema.org/jobTitle": "併任 統括官付参事官付企画官 命 公文書監理官室室員"
+  },
+  {
+    "https://schema.org/name": "占部 祥",
+    "https://schema.org/description": "東京地方検察庁検事 併任 内閣官房副長官補付企画官 命 内閣官房情報通信技術（ＩＴ）総合戦略室企画官",
+    "https://schema.org/jobTitle": "併任 統括官付参事官付企画官"
+  },
+  {
+    "https://schema.org/name": "津脇 慈子",
+    "https://schema.org/description": "経済産業省大臣官房付 併任 内閣官房副長官補付企画官 命 内閣官房情報通信技術（IT）総合戦略室企画官",
+    "https://schema.org/jobTitle": "統括官付参事官付企画官"
+  },
+  {
+    "https://schema.org/name": "吉田 泰己",
+    "https://schema.org/description": "経済産業省大臣官房付 併任 内閣官房副長官補付企画官 命 内閣官房情報通信技術（ＩＴ）総合戦略室企画官（～R3.8.31まで）",
+    "https://schema.org/jobTitle": "併任 統括官付参事官付企画官"
+  },
+  {
+    "https://schema.org/name": "齋藤 憲士",
+    "https://schema.org/description": "8/31付辞職 防衛省大臣官房付 併任 整備計画局情報通信課付 兼官 内閣官房副長官補付企画官）命 内閣官房情報通信技術（IT）総合戦略室企画官",
+    "https://schema.org/jobTitle": "採用 統括官付参事官付企画官"
+  },
+  {
+    "https://schema.org/name": "須﨑 和馬",
+    "https://schema.org/description": "総務省大臣官房付 併任 行政管理局（～R3.9.30） 併任 内閣官房副長官補付） 命 内閣官房情報通信技術（IT）総合戦略室企画官",
+    "https://schema.org/jobTitle": "併任 統括官付参事官付企画官"
+  },
+  {
+    "https://schema.org/name": "圓増 正宏",
+    "https://schema.org/description": "内閣官房副長官補付企画官 命 内閣官房情報通信技術（IT）総合戦略室企画官",
+    "https://schema.org/jobTitle": "統括官付参事官付企画官"
+  },
+  {
+    "https://schema.org/name": "林 隆幸",
+    "https://schema.org/description": "総務省行政管理局企画官 併任 内閣官房副長官補付 命 内閣官房情報通信技術（IT）総合戦略室企画官",
+    "https://schema.org/jobTitle": "併任 統括官付参事官付企画官"
+  },
+  {
+    "https://schema.org/name": "山本 武史",
+    "https://schema.org/description": "国税庁長官官房付 併任 内閣官房副長官補付企画官 命 内閣官房情報通信技術（IT）総合戦略室企画官",
+    "https://schema.org/jobTitle": "併任 統括官付参事官付企画官"
+  },
+  {
+    "https://schema.org/name": "濵口 信彦",
+    "https://schema.org/description": "国土交通省港湾局付 併任 内閣官房副長官補付企画官 命 内閣官房情報通信技術（IT）総合戦略室企画官",
+    "https://schema.org/jobTitle": "併任 統括官付参事官付企画官"
+  },
+  {
+    "https://schema.org/name": "城戸 格",
+    "https://schema.org/description": "国税庁長官官房付 併任 内閣官房副長官補付企画官 命 内閣官房情報通信技術（IT）総合戦略室企画官",
+    "https://schema.org/jobTitle": "統括官付参事官付企画官"
+  },
+  {
+    "https://schema.org/name": "中川 尚志",
+    "https://schema.org/description": "文部科学省大臣官房付 併任 内閣官房副長官補付企画官 命 内閣官房情報通信技術（IT）総合戦略室企画官（～R3.8.31まで）",
+    "https://schema.org/jobTitle": "統括官付参事官付企画官"
+  },
+  {
+    "https://schema.org/name": "小川 力也",
+    "https://schema.org/description": "総務省行政評価局企画官",
+    "https://schema.org/jobTitle": "併任 統括官付参事官付企画官"
+  },
+  {
+    "https://schema.org/name": "鈴木 崇弘",
+    "https://schema.org/description": "国土交通省港湾局付",
+    "https://schema.org/jobTitle": "統括官付参事官付企画官"
+  },
+  {
+    "https://schema.org/name": "岡部 弘",
+    "https://schema.org/description": "東京地方検察庁検 併任 内閣官房副長官補付企画官 命 内閣官房情報通信技術（IT）総合戦略室企画官（～R3.8.31まで）",
+    "https://schema.org/jobTitle": "併任 統括官付参事官付企画官"
+  },
+  {
+    "https://schema.org/name": "能城 均",
+    "https://schema.org/description": "人事院事務総局参事官付上席情報システム専門官",
+    "https://schema.org/jobTitle": "統括官付参事官付企画官"
+  },
+  {
+    "https://schema.org/name": "三好 哲也",
+    "https://schema.org/description": "人事院事務総局参事官付上席システム運用専門官",
+    "https://schema.org/jobTitle": "統括官付参事官付企画官"
+  },
+  {
+    "https://schema.org/name": "安田 英司",
+    "https://schema.org/description": "人事院事務総局参事官付上席システム管理専門官",
+    "https://schema.org/jobTitle": "統括官付参事官付企画官"
+  }
+]
