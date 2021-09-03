@@ -1,5 +1,23 @@
 [
   {
+    "https://schema.org/name": "平井 卓也",
+    "https://code4fukui.github.io/rdf/#kana": "ひらい たくや",
+    "https://schema.org/category": "大臣・副大臣・政務官",
+    "https://schema.org/jobTitle": "デジタル大臣"
+  },
+  {
+    "https://schema.org/name": "藤井 比早之",
+    "https://code4fukui.github.io/rdf/#kana": "ふじい ひさゆき",
+    "https://schema.org/category": "大臣・副大臣・政務官",
+    "https://schema.org/jobTitle": "デジタル副大臣"
+  },
+  {
+    "https://schema.org/name": "岡下 昌平",
+    "https://code4fukui.github.io/rdf/#kana": "おかした しょうへい",
+    "https://schema.org/category": "大臣・副大臣・政務官",
+    "https://schema.org/jobTitle": "デジタル大臣政務官"
+  },
+  {
     "https://schema.org/name": "石倉 洋子",
     "https://code4fukui.github.io/rdf/#kana": "いしくら ようこ",
     "https://schema.org/category": "デジタル監・デジタル審議官",
@@ -42,6 +60,60 @@
     "https://schema.org/jobTitle": "Chief Technology Officer"
   },
   {
+    "https://schema.org/name": "梅谷 晃宏",
+    "https://code4fukui.github.io/rdf/#kana": "うめがい あきひろ",
+    "https://schema.org/category": "分野統括",
+    "https://schema.org/jobTitle": "ガバメントクラウド統括"
+  },
+  {
+    "https://schema.org/name": "田丸 健三郎",
+    "https://code4fukui.github.io/rdf/#kana": "たまる けんざぶろう",
+    "https://schema.org/category": "分野統括",
+    "https://schema.org/jobTitle": "ガバメントソリューション統括"
+  },
+  {
+    "https://schema.org/name": "座間 敏如",
+    "https://code4fukui.github.io/rdf/#kana": "ざんま としゆき",
+    "https://schema.org/category": "分野統括",
+    "https://schema.org/jobTitle": "国際戦略統括"
+  },
+  {
+    "https://schema.org/name": "中室 牧子",
+    "https://code4fukui.github.io/rdf/#kana": "なかむろ まきこ",
+    "https://schema.org/category": "分野統括",
+    "https://schema.org/jobTitle": "デジタルエデュケーション統括"
+  },
+  {
+    "https://schema.org/name": "矢作 尚久",
+    "https://code4fukui.github.io/rdf/#kana": "やはぎ なおひさ",
+    "https://schema.org/category": "分野統括",
+    "https://schema.org/jobTitle": "デジタルヘルス統括"
+  },
+  {
+    "https://schema.org/name": "平本 健二",
+    "https://code4fukui.github.io/rdf/#kana": "ひらもと けんじ",
+    "https://schema.org/category": "分野統括",
+    "https://schema.org/jobTitle": "データ戦略統括"
+  },
+  {
+    "https://schema.org/name": "岩澤 俊典",
+    "https://code4fukui.github.io/rdf/#kana": "いわさわ としのり",
+    "https://schema.org/category": "分野統括",
+    "https://schema.org/jobTitle": "リソースマネジメント統括"
+  },
+  {
+    "https://schema.org/name": "冨安 泰一郎",
+    "https://code4fukui.github.io/rdf/#kana": "とみやす たいいちろう",
+    "https://schema.org/category": "戦略・組織グループ",
+    "https://schema.org/jobTitle": "戦略・組織グループ グループ長 統括官"
+  },
+  {
+    "https://schema.org/name": "山本 和徳",
+    "https://code4fukui.github.io/rdf/#kana": "やまもと かずのり",
+    "https://schema.org/category": "戦略・組織グループ",
+    "https://schema.org/jobTitle": "戦略・組織グループ 次長 統括官付審議官"
+  },
+  {
     "https://schema.org/name": "楠 正憲",
     "https://code4fukui.github.io/rdf/#kana": "くすのき まさのり",
     "https://schema.org/category": "デジタル社会共通機能グループ",
@@ -82,18 +154,6 @@
     "https://code4fukui.github.io/rdf/#kana": "はやせ かずよし",
     "https://schema.org/category": "省庁業務サービスグループ",
     "https://schema.org/jobTitle": "省庁業務サービスグループ 次長 統括官付審議官"
-  },
-  {
-    "https://schema.org/name": "冨安 泰一郎",
-    "https://code4fukui.github.io/rdf/#kana": "とみやす たいいちろう",
-    "https://schema.org/category": "戦略・組織グループ",
-    "https://schema.org/jobTitle": "戦略・組織グループ グループ長 統括官"
-  },
-  {
-    "https://schema.org/name": "山本 和徳",
-    "https://code4fukui.github.io/rdf/#kana": "やまもと かずのり",
-    "https://schema.org/category": "戦略・組織グループ",
-    "https://schema.org/jobTitle": "戦略・組織グループ 次長 統括官付審議官"
   },
   {
     "https://schema.org/name": "二宮 清治",

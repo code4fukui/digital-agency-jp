@@ -1,6 +1,9 @@
 import { CSV } from "https://js.sabae.cc/CSV.js";
 
-export const csv2md = async ({filename, title, name, body, sortkey}) => {
+export const csv2md = async ({filename, title, name, body, sortkey, dstpath}) => {
+  if (!dstpath) {
+    dstpath = "./";
+  }
   const data = CSV.toJSON(await CSV.fetch(filename));
   if (!name) {
     for (const n in data[0]) {
@@ -27,8 +30,10 @@ export const csv2md = async ({filename, title, name, body, sortkey}) => {
     md.push(Object.keys(d).filter(n => n != name && n != body && d[n]).map(n => "- " + n + ": " + d[n]).join("\n"));
     md.push("");
   }
-  const fnmd = filename.substring(0, filename.length - 3) + "md";
+  const n = filename.lastIndexOf("/") + 1;
+  const fnmd = filename.substring(0, n) + dstpath + filename.substring(n, filename.length - 3) + "md";
   const smd = md.join("\n");
+  console.log(fnmd);
   await Deno.writeTextFile(fnmd, smd);
   return smd;
 };

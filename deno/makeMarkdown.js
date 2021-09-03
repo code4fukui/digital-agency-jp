@@ -8,5 +8,6 @@ for (const d of list) {
   const md = await csv2md({
     filename: "../" + d.ファイル名,
     title: d.タイトル,
+    dstpath: "md/",
   });
 }
