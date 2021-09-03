@@ -4,7 +4,7 @@
 
 ## アプリ
 
-[デジタル庁幹部検索アプリ](https://code4fukui.github.io/digital-agency-jp/digital-agency-person.html)
+[デジタル庁人事検索アプリ](https://code4fukui.github.io/digital-agency-jp/digital-agency-person.html)
 ## データセット
 
 ### デジタル庁の組織体制
@@ -12,9 +12,9 @@
 - [デジタル庁の組織体制.csv](https://github.com/code4fukui/digital-agency-jp/blob/main/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%BA%81%E3%81%AE%E7%B5%84%E7%B9%94%E4%BD%93%E5%88%B6.csv) ([CSV for App](https://code4fukui.github.io/digital-agency-jp/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%BA%81%E3%81%AE%E7%B5%84%E7%B9%94%E4%BD%93%E5%88%B6.csv))
 - [デジタル庁の組織体制.md](https://github.com/code4fukui/digital-agency-jp/blob/main/md/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%BA%81%E3%81%AE%E7%B5%84%E7%B9%94%E4%BD%93%E5%88%B6.md)
 
-### デジタル庁幹部
+### デジタル庁人事
 
-- [digital-agency-person.csv](digital-agency-person.csv) ([検索アプリ](https://code4fukui.github.io/digital-agency-jp/digital-agency-person.html))
+- [digital-agency-person.csv](digital-agency-person.csv) (デジタル庁幹部名簿とデジタル庁人事をマージしたデータ / [検索アプリ](https://code4fukui.github.io/digital-agency-jp/digital-agency-person.html))
 - [digital-agency-person.json](digital-agency-person.json)
 
 - [デジタル庁幹部名簿.csv](https://github.com/code4fukui/digital-agency-jp/blob/main/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%BA%81%E5%B9%B9%E9%83%A8%E5%90%8D%E7%B0%BF.csv) ([CSV for App](https://code4fukui.github.io/digital-agency-jp/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%BA%81%E5%B9%B9%E9%83%A8%E5%90%8D%E7%B0%BF.csv))
