@@ -14,7 +14,7 @@ for (const d of data) {
 data.reverse();
 await Deno.writeTextFile("../news.csv", CSV.stringify(data));
 await Deno.writeTextFile("../news.md", CSV.toMarkdown(data));
-await Deno.writeTextFile("../news.html", Markdown.toHTML(CSV.toMarkdown(data)));
+//await Deno.writeTextFile("../news.html", Markdown.toHTML(CSV.toMarkdown(data)));
 
 /*
 参考
