@@ -40,9 +40,14 @@
 - [news.csv](news.csv) (news-url.csvからfetchOGPによって生成したCSV)
 - [news.md](news.md) (news.csvのMarkdown版)
 
-### コピーライトポリシー
+### 各種ポリシー
 
-- [copyright-policy.md](copyright-policy.md) ([政府標準利用規約(第2.0版)](https://github.com/code4fukui/copyright-policy-jp/blob/main/%E6%94%BF%E5%BA%9C%E6%A8%99%E6%BA%96%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84(%E7%AC%AC2.0%E7%89%88).md)に準拠、[CC BY 4.0 国際](https://creativecommons.org/licenses/by/4.0/legalcode.ja)互換)
+- [サイトポリシー.md](site-policy.md)
+- [プライバシーポリシー.md](privacy-policy.md)
+- [コピーライトポリシー.md](copyright-policy.md) ([政府標準利用規約(第2.0版)](https://github.com/code4fukui/copyright-policy-jp/blob/main/%E6%94%BF%E5%BA%9C%E6%A8%99%E6%BA%96%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84(%E7%AC%AC2.0%E7%89%88).md)に準拠、[CC BY 4.0 国際](https://creativecommons.org/licenses/by/4.0/legalcode.ja)互換)
+- [ソーシャルメディアポリシー.md](social-media-policy.md)
+- [アクセシビリティ.md](accessibility-statement.md)
+- [個人情報.md](privacy.md)
  
 ### 出典
 
