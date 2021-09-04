@@ -25,7 +25,7 @@
 ### 予算
 
 - [令和4年度予算概算要求・機構定員要求の概要.csv](https://github.com/code4fukui/digital-agency-jp/blob/main/%E4%BB%A4%E5%92%8C4%E5%B9%B4%E5%BA%A6%E4%BA%88%E7%AE%97%E6%A6%82%E7%AE%97%E8%A6%81%E6%B1%82%E3%83%BB%E6%A9%9F%E6%A7%8B%E5%AE%9A%E5%93%A1%E8%A6%81%E6%B1%82%E3%81%AE%E6%A6%82%E8%A6%81.csv)
-- [令和4年度予算概算要求・機構定員要求の概要.md](https://github.com/code4fukui/digital-agency-jp/blob/main/%E4%BB%A4%E5%92%8C4%E5%B9%B4%E5%BA%A6%E4%BA%88%E7%AE%97%E6%A6%82%E7%AE%97%E8%A6%81%E6%B1%82%E3%83%BB%E6%A9%9F%E6%A7%8B%E5%AE%9A%E5%93%A1%E8%A6%81%E6%B1%82%E3%81%AE%E6%A6%82%E8%A6%81.md)
+- [令和4年度予算概算要求・機構定員要求の概要.md](https://github.com/code4fukui/digital-agency-jp/blob/main/md/%E4%BB%A4%E5%92%8C4%E5%B9%B4%E5%BA%A6%E4%BA%88%E7%AE%97%E6%A6%82%E7%AE%97%E8%A6%81%E6%B1%82%E3%83%BB%E6%A9%9F%E6%A7%8B%E5%AE%9A%E5%93%A1%E8%A6%81%E6%B1%82%E3%81%AE%E6%A6%82%E8%A6%81.md)
 
 ### GIGAスクール構想についてのアンケートの取りまとめ結果
 
