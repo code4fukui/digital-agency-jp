@@ -33,7 +33,7 @@
 
 ## 関連リポジトリ
 
-- [takechan2000/sematic-digital-agency: RDF description of Digital Agency Organization](https://github.com/takechan2000/sematic-digital-agency)
+- [takechan2000/sematic-digital-agency: RDF description of Digital Agency Organization](https://github.com/takechan2000/semantic-digital-agency)
 
 ## 貢献方法
 
