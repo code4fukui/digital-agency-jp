@@ -4,8 +4,8 @@
 
 ## アプリ
 
-[デジタル庁ニュース表示アプリ](https://code4fukui.github.io/digital-agency-jp/)
-[デジタル庁人事検索アプリ](https://code4fukui.github.io/digital-agency-jp/digital-agency-person.html)
+- [デジタル庁ニュース表示アプリ](https://code4fukui.github.io/digital-agency-jp/)
+- [デジタル庁人事検索アプリ](https://code4fukui.github.io/digital-agency-jp/digital-agency-person.html)
 
 ## データセット
 
