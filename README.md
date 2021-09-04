@@ -30,6 +30,10 @@
 
 - [出典.csv](https://github.com/code4fukui/digital-agency-jp/blob/main/%E5%87%BA%E5%85%B8.csv)
 
+## 関連リポジトリ
+
+- [takechan2000/sematic-digital-agency: RDF description of Digital Agency Organization](https://github.com/takechan2000/sematic-digital-agency)
+
 ## 貢献方法
 
 訂正、コメント、歓迎です！
