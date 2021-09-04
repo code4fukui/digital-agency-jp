@@ -25,10 +25,15 @@
 ### GIGAスクール構想についてのアンケートの取りまとめ結果
 
 - [関係大臣共同メッセージ.csv](https://github.com/code4fukui/digital-agency-jp/blob/main/GIGA%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E6%A7%8B%E6%83%B3%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88%E3%81%AE%E5%8F%96%E3%82%8A%E3%81%BE%E3%81%A8%E3%82%81%E7%B5%90%E6%9E%9C/%E9%96%A2%E4%BF%82%E5%A4%A7%E8%87%A3%E5%85%B1%E5%90%8C%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8.csv) ([表示アプリ](https://code4fukui.github.io/digital-agency-jp/GIGA%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E6%A7%8B%E6%83%B3%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88%E3%81%AE%E5%8F%96%E3%82%8A%E3%81%BE%E3%81%A8%E3%82%81%E7%B5%90%E6%9E%9C/))
+- [関係大臣共同メッセージ.md](https://github.com/code4fukui/digital-agency-jp/blob/main/GIGA%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E6%A7%8B%E6%83%B3%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88%E3%81%AE%E5%8F%96%E3%82%8A%E3%81%BE%E3%81%A8%E3%82%81%E7%B5%90%E6%9E%9C/%E9%96%A2%E4%BF%82%E5%A4%A7%E8%87%A3%E5%85%B1%E5%90%8C%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8.md)
 
 ### 出典
 
 - [出典.csv](https://github.com/code4fukui/digital-agency-jp/blob/main/%E5%87%BA%E5%85%B8.csv)
+
+## 関連リポジトリ
+
+- [takechan2000/sematic-digital-agency: RDF description of Digital Agency Organization](https://github.com/takechan2000/semantic-digital-agency)
 
 ## 貢献方法
 
