@@ -11,8 +11,3 @@ for (const d of list) {
     dstpath: "md/",
   });
 }
-
-const fn = "../GIGAスクール構想についてのアンケートの取りまとめ結果/関係大臣共同メッセージ.csv";
-const csv = await CSV.fetch(fn);
-const md = CSV.toMarkdown(csv);
-await Deno.writeTextFile(fn.substring(0, fn.length - 3) + "md", md);
