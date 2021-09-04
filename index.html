@@ -1,0 +1,70 @@
+<!DOCTYPE html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width">
+</head><body>
+<script type="module">
+import { CSV } from "https://js.sabae.cc/CSV.js";
+
+onload = async () => {
+  const url = "https://code4fukui.github.io/digital-agency-jp/news.csv";
+  // https://github.com/code4fukui/digital-agency-jp/blob/main/news.md
+  const data = CSV.toJSON(await CSV.fetch(url));
+  const cr = (tag) => document.createElement(tag);
+  for (const d of data) {
+    const div = cr("a");
+    div.href = d["https://schema.org/url"];
+    const img = new Image();
+    img.src = d["og:image"];
+    div.appendChild(img);
+    const cap = cr("div");
+    cap.textContent = d["og:title"];
+    div.appendChild(cap);
+    container.appendChild(div);
+  }
+};
+</script>
+<style>
+body {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+#menu {
+  background-color: #8bf;
+}
+#menu a {
+  display: inline-block;
+  padding: .5em .5em;
+  font-size: 80%;
+  text-decoration: none;
+  margin: 0;
+  color: black !important;
+}
+#container {
+  display: inline-block;
+}
+#container > a {
+  vertical-align: top;
+  display: inline-block;
+  width: 300px;
+  height: calc(3em + 240px);
+  margin: 20px;
+  padding: 10px;
+  border: 2px solid gray;
+}
+#container img {
+  width: 100%;
+}
+</style>
+</head><body>
+<div id="menu">
+  <a href=https://code4fukui.github.io/digital-agency-jp/digital-agency-person.html>人事検索</a>
+  <a href=https://github.com/code4fukui/digital-agency-jp/blob/main/md/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%BA%81%E3%81%AE%E7%B5%84%E7%B9%94%E4%BD%93%E5%88%B6.md>組織</a>
+  <a href=https://github.com/code4fukui/digital-agency-jp/blob/main/md/%E4%BB%A4%E5%92%8C4%E5%B9%B4%E5%BA%A6%E4%BA%88%E7%AE%97%E6%A6%82%E7%AE%97%E8%A6%81%E6%B1%82%E3%83%BB%E6%A9%9F%E6%A7%8B%E5%AE%9A%E5%93%A1%E8%A6%81%E6%B1%82%E3%81%AE%E6%A6%82%E8%A6%81.md>予算概要</a>
+  <a href=https://github.com/code4fukui/digital-agency-jp/blob/main/GIGA%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E6%A7%8B%E6%83%B3%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88%E3%81%AE%E5%8F%96%E3%82%8A%E3%81%BE%E3%81%A8%E3%82%81%E7%B5%90%E6%9E%9C/%E9%96%A2%E4%BF%82%E5%A4%A7%E8%87%A3%E5%85%B1%E5%90%8C%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8.md>関係大臣メッセージ(GIGAスクール)</a>
+  <a href=https://github.com/code4fukui/digital-agency-jp>オープンデータ</a>
+</div>
+<h1>デジタル庁ニュース</h1>
+<div id="container"></div>
+<hr>
+Data: CC BY <a href=https://www.digital.go.jp/>デジタル庁</a><br>
+App: MIT <a href=https://github.com/code4fukui/digital-agency-jp/>デジタル庁オープンデータ活用プロジェクト by Code for FUKUI</a><br>
+</body></html>
