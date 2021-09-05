@@ -10,6 +10,7 @@ for (const d of data) {
   const html = await res.text();
   const ogp = parseOGP(html);
   Object.assign(d, ogp);
+  console.log(ogp);
 }
 data.reverse();
 await Deno.writeTextFile("../news.csv", CSV.stringify(data));

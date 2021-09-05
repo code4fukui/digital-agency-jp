@@ -5,10 +5,10 @@
 - https://schema.org/datePublished: 2021-09-03
 - og:type: website
 - og:site_name: デジタル庁
-- og:title: デジタル庁
-- og:image: https://storage.googleapis.com/production-os-assets/assets/8f02b16f-3f50-44cb-a347-3b73c33e590f
+- og:title: GIGAスクール構想についてのアンケートの取りまとめ結果を公表しました ｜デジタル庁
+- og:image: https://storage.googleapis.com/studio-cms-assets/projects/4BqNmnYVOr/s-1200x630_v-fms_webp_690c07ae-e5c2-4745-b66e-cd0637f8883c.png
 - og:description: デジタル庁は、デジタル社会形成の司令塔として、未来志向のDXを大胆に推進し、デジタル時代の官民のインフラを今後5年で一気呵成に作り上げることを目指します。
-- og:url: 
+- og:url: https://www.digital.go.jp/posts/NL3lOB9E
 
 ## https://www.digital.go.jp/posts/cqcCJziK
 
