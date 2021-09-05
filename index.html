@@ -1,4 +1,5 @@
 <!DOCTYPE html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css">
 <title>デジタル庁ニュース</title>
 </head><body>
 <script type="module">
@@ -22,6 +23,7 @@ onload = async () => {
   const cr = (tag) => document.createElement(tag);
   for (const d of data) {
     const div = cr("a");
+    div.className = "box";
     div.href = d["https://schema.org/url"];
     const img = new Image();
     img.src = d["og:image"];
@@ -42,7 +44,11 @@ body {
   text-align: center;
   margin: 0;
   padding: 0;
+  padding-bottom: 2em;
   font-family: sans-serif;
+}
+h1 {
+  margin: 1em;
 }
 #menu {
   background-color: #8bf;
@@ -71,14 +77,16 @@ body {
   height: calc(3em + 240px);
   margin: 20px;
   padding: 10px;
+/*
   border: 2px solid gray;
+*/
 }
 #container img {
   width: 100%;
 }
 </style>
 </head><body>
-<div id="menu">
+<nav id="menu">
   <a href=https://code4fukui.github.io/digital-agency-jp/digital-agency-person.html>人事検索</a>
   <a href=https://github.com/code4fukui/digital-agency-jp/blob/main/md/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%BA%81%E3%81%AE%E7%B5%84%E7%B9%94%E4%BD%93%E5%88%B6.md>組織</a>
   <a href=https://github.com/code4fukui/digital-agency-jp/blob/main/md/%E4%BB%A4%E5%92%8C4%E5%B9%B4%E5%BA%A6%E4%BA%88%E7%AE%97%E6%A6%82%E7%AE%97%E8%A6%81%E6%B1%82%E3%83%BB%E6%A9%9F%E6%A7%8B%E5%AE%9A%E5%93%A1%E8%A6%81%E6%B1%82%E3%81%AE%E6%A6%82%E8%A6%81.md>予算概要</a>
@@ -86,10 +94,11 @@ body {
   <a href=https://code4fukui.github.io/stdwords-jp/>用語集(旧政府CIO)</a>
   <a href=https://github.com/code4fukui/digital-agency-jp>オープンデータ</a>
   <a href=https://github.com/code4fukui/digital-agency-jp/blob/main/md/site-policy.md>サイトポリシー</a>
-</div>
-<h1>デジタル庁ニュース</h1>
+</nav>
+<h1 class="title">デジタル庁ニュース</h1>
 <div id="container"></div>
 <hr>
 Data: CC BY <a href=https://www.digital.go.jp/>デジタル庁</a><br>
+Design: MIT <a href=https://bulma.io/>Bulma</a><br>
 App: MIT <a href=https://github.com/code4fukui/digital-agency-jp/>デジタル庁オープンデータ活用プロジェクト by Code for FUKUI</a><br>
 </body></html>
