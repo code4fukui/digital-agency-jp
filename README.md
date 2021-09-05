@@ -1,6 +1,6 @@
 # デジタル庁オープンデータ opendata of digital-agency-jp
 
-民間組織、[Code for FUKUI](https://code4fukui.github.io/)が、[デジタル庁](https://www.digital.go.jp/)が公開するコンテンツを[CC BY](https://creativecommons.org/licenses/by/4.0/legalcode.ja)と互換性がある[デジタル庁のコピーライトポリシー](https://www.digital.go.jp/copyright-policy)の基づき、活用しやすいオープンデータとして変換し、公開しています。誰一人取り残さない、人に優しいデジタル化を。
+民間組織、[Code for FUKUI](https://code4fukui.github.io/)が、[デジタル庁](https://www.digital.go.jp/)が公開するコンテンツを[CC BY](https://creativecommons.org/licenses/by/4.0/legalcode.ja)と互換性がある[デジタル庁のコピーライトポリシー](https://www.digital.go.jp/copyright-policy)の基づき、活用しやすいCSV/Markdown形式などのオープンデータに変換し、公開しています。誰一人取り残さない、人に優しいデジタル化を。
 
 ## アプリ
 
