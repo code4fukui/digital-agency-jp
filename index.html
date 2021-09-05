@@ -3,11 +3,22 @@
 </head><body>
 <script type="module">
 import { CSV } from "https://js.sabae.cc/CSV.js";
+import { DateTime } from "https://js.sabae.cc/DateTime.js";
 
 onload = async () => {
   const url = "https://code4fukui.github.io/digital-agency-jp/news.csv";
   // https://github.com/code4fukui/digital-agency-jp/blob/main/news.md
   const data = CSV.toJSON(await CSV.fetch(url));
+
+  //const url2 = "https://code4fukui.github.io/digital-agency-jp/note.csv";
+  const url2 = "./note.csv";
+  // https://github.com/code4fukui/digital-agency-jp/blob/main/note.md
+  const data2 = CSV.toJSON(await CSV.fetch(url2));
+  data2.forEach(d => data.push(d));
+
+  const sortkey = (a) => new DateTime(a["https://schema.org/datePublished"]).getTime();
+  data.sort((a, b) => sortkey(b) - sortkey(a));
+  
   const cr = (tag) => document.createElement(tag);
   for (const d of data) {
     const div = cr("a");
@@ -15,6 +26,10 @@ onload = async () => {
     const img = new Image();
     img.src = d["og:image"];
     div.appendChild(img);
+    const datetime = cr("div");
+    datetime.className = "datetime";
+    datetime.textContent = new DateTime(d["https://schema.org/datePublished"]).day.toString();
+    div.appendChild(datetime);
     const cap = cr("div");
     cap.textContent = d["og:title"];
     div.appendChild(cap);
@@ -42,6 +57,12 @@ body {
 }
 #container {
   display: inline-block;
+}
+#container a {
+  text-decoration: none;
+}
+.datetime {
+  font-size: 80%;
 }
 #container > a {
   vertical-align: top;

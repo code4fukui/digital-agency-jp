@@ -40,6 +40,12 @@
 - [news.csv](news.csv) (news-url.csvからfetchOGPによって生成したCSV)
 - [news.md](md/news.md) (news.csvのMarkdown版)
 
+## note
+
+- [note-url.csv](note-url.csv)
+- [note.csv](note.csv) (note-url.csvからfetchOGPNote/fetchOGPNote2によって生成したCSV)
+- [note.md](md/note.md) (note.csvのMarkdown版)
+
 ### 各種ポリシー Markdown
 
 - [デジタル庁コンプライアンス基本方針（案）](md/compliance.md) ([コンプライアンス委員会の設置について ｜デジタル庁](https://www.digital.go.jp/posts/Bca6lKg9))
