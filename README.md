@@ -64,6 +64,7 @@
 
 - [takechan2000/sematic-digital-agency: RDF description of Digital Agency Organization](https://github.com/takechan2000/semantic-digital-agency)
 - [code4fukui/copyright-policy-jp: 政府標準利用規約](https://github.com/code4fukui/copyright-policy-jp)
+- [デジタル庁のWebをSimpleHTMLに変換しよう](https://github.com/code4fukui/digital-agency-simplehtml)
 
 ## 貢献方法
 
