@@ -3,7 +3,9 @@ import { CSV } from "https://js.sabae.cc/CSV.js";
 import { Markdown } from "https://code4fukui.github.io/Markdown/Markdown.js";
 
 const data = CSV.toJSON(await CSV.fetch("../news-url.csv"));
+//const data2 = CSV.toJSON(await Deno.readTextFile("../news.csv"));
 for (const d of data) {
+
   const res = await fetch(d["https://schema.org/url"]);
   const headers = res.headers;
   // console.log(headers); // 更新日取得できず

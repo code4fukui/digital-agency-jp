@@ -1,5 +1,15 @@
 # https://schema.org/url
 
+## https://digital-gov.note.jp/n/n6d3ea95ec445
+
+- https://schema.org/datePublished: 2021-09-06T18:39:14.000+09:00
+- og:site_name: デジタル庁
+- og:url: https://digital-gov.note.jp/n/n6d3ea95ec445
+- og:title: デジタル庁ロゴ関連資料を更新しました｜デジタル庁
+- og:description:  2021年9月1日のデジタル庁創設にあわせブランドページ上で公表したデジタル庁ロゴ関連資料について、9月6日に一部誤りの修正および調整をいたしましたのでお知らせします。  主な更新点  1. Digital Primary Black のRGB値を修正  Digital Primary BlackのRGB値がHEX値とずれていましたので、一致するようガイドラインを修正しました。   ・【誤】RGB: 38&nbsp;32 32 ・【正】RGB: 37&nbsp;32 32​  既にご利用いただいたかたには、修正のご面倒をおかけし申し訳ありません。 なお配布したロゴファイルには正しい色
+- og:image: https://assets.st-note.com/production/uploads/images/60584433/rectangle_large_type_2_4105e0351820011001bbf3e3461c0850.png?fit=bounds&quality=85&width=1280
+- og:type: article
+
 ## https://digital-gov.note.jp/n/n3690482b9676
 
 - https://schema.org/datePublished: 2021-05-13T09:00:40.000+09:00
