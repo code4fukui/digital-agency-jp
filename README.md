@@ -13,6 +13,7 @@
 
 - [デジタル庁の組織体制.csv](https://github.com/code4fukui/digital-agency-jp/blob/main/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%BA%81%E3%81%AE%E7%B5%84%E7%B9%94%E4%BD%93%E5%88%B6.csv) ([CSV for App](https://code4fukui.github.io/digital-agency-jp/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%BA%81%E3%81%AE%E7%B5%84%E7%B9%94%E4%BD%93%E5%88%B6.csv))
 - [デジタル庁の組織体制.md](https://github.com/code4fukui/digital-agency-jp/blob/main/md/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%BA%81%E3%81%AE%E7%B5%84%E7%B9%94%E4%BD%93%E5%88%B6.md)
+- [デジタル社会構想会議.md](https://github.com/code4fukui/digital-agency-jp/blob/main/md/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E7%A4%BE%E4%BC%9A%E6%A7%8B%E6%83%B3%E4%BC%9A%E8%AD%B0%E3%81%AE%E9%96%8B%E5%82%AC%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.md)
 
 ### デジタル庁人事
 
