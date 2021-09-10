@@ -1,11 +1,31 @@
 # https://schema.org/url
 
+## https://www.digital.go.jp/meeting/posts/stdbnYdh
+
+- https://schema.org/datePublished: 2021-09-10
+- og:type: website
+- og:site_name: デジタル庁
+- og:title: 第1回デジタル社会推進会議幹事会 ｜デジタル庁
+- og:image: https://storage.googleapis.com/production-os-assets/assets/8f02b16f-3f50-44cb-a347-3b73c33e590f
+- og:description: デジタル庁は、デジタル社会形成の司令塔として、未来志向のDXを大胆に推進し、デジタル時代の官民のインフラを今後5年で一気呵成に作り上げることを目指します。
+- og:url: https://www.digital.go.jp/meeting/posts/stdbnYdh
+
+## https://www.digital.go.jp/meeting#digital-society-planning-council
+
+- https://schema.org/datePublished: 2021-09-07
+- og:type: website
+- og:site_name: デジタル庁
+- og:title: 会議等｜デジタル庁
+- og:image: https://storage.googleapis.com/production-os-assets/assets/8f02b16f-3f50-44cb-a347-3b73c33e590f
+- og:description: デジタル庁は、デジタル社会形成の司令塔として、未来志向のDXを大胆に推進し、デジタル時代の官民のインフラを今後5年で一気呵成に作り上げることを目指します。
+- og:url: https://www.digital.go.jp/meeting
+
 ## https://www.digital.go.jp/meeting/posts/zvKTxKMK
 
 - https://schema.org/datePublished: 2021-09-06
 - og:type: website
 - og:site_name: デジタル庁
-- og:title: 第1回デジタル社会推進会議
+- og:title: 第1回デジタル社会推進会議 ｜デジタル庁
 - og:image: https://storage.googleapis.com/production-os-assets/assets/8f02b16f-3f50-44cb-a347-3b73c33e590f
 - og:description: デジタル庁は、デジタル社会形成の司令塔として、未来志向のDXを大胆に推進し、デジタル時代の官民のインフラを今後5年で一気呵成に作り上げることを目指します。
 - og:url: https://www.digital.go.jp/meeting/posts/zvKTxKMK
