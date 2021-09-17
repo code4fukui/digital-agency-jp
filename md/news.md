@@ -1,5 +1,25 @@
 # https://schema.org/url
 
+## https://www.digital.go.jp/posts/ckWVVAya
+
+- https://schema.org/datePublished: 2021-09-17
+- og:type: website
+- og:site_name: デジタル庁
+- og:title: コロナワクチンの接種証明書（電子交付）の仕様に関するご意見を募集します ｜デジタル庁
+- og:image: https://storage.googleapis.com/studio-cms-assets/projects/4BqNmnYVOr/s-1200x630_v-fms_webp_581dc15e-2494-487d-91d0-1957edebdd08.png
+- og:description: デジタル庁は、デジタル社会形成の司令塔として、未来志向のDXを大胆に推進し、デジタル時代の官民のインフラを今後5年で一気呵成に作り上げることを目指します。
+- og:url: https://www.digital.go.jp/posts/ckWVVAya
+
+## https://www.digital.go.jp/posts/Bx1xWQBi
+
+- https://schema.org/datePublished: 2021-09-16
+- og:type: website
+- og:site_name: デジタル庁
+- og:title: 「2021年デジタルの日」に向けて、カウントダウン応援動画・楽曲が初解禁！ ｜デジタル庁
+- og:image: https://storage.googleapis.com/studio-cms-assets/projects/4BqNmnYVOr/s-1200x630_v-fms_webp_06074814-6201-4bcb-8d7d-b145b8f9fd74.png
+- og:description: デジタル庁は、デジタル社会形成の司令塔として、未来志向のDXを大胆に推進し、デジタル時代の官民のインフラを今後5年で一気呵成に作り上げることを目指します。
+- og:url: https://www.digital.go.jp/posts/Bx1xWQBi
+
 ## https://www.digital.go.jp/meeting/posts/stdbnYdh
 
 - https://schema.org/datePublished: 2021-09-10
