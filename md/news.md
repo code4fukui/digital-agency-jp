@@ -1,5 +1,55 @@
 # https://schema.org/url
 
+## https://www.digital.go.jp/recruit/career
+
+- https://schema.org/datePublished: 2021-10-01
+- og:type: website
+- og:site_name: デジタル庁
+- og:title: 中途採用｜デジタル庁
+- og:image: https://storage.googleapis.com/production-os-assets/assets/8f02b16f-3f50-44cb-a347-3b73c33e590f
+- og:description: 多様な経験や豊富な専門性を活かし、ともに大きな挑戦に取り組みましょう。
+- og:url: https://www.digital.go.jp/recruit/career
+
+## https://www.digital.go.jp/procurement/posts/Zo6whCVc
+
+- https://schema.org/datePublished: 2021-10-01
+- og:type: website
+- og:site_name: デジタル庁
+- og:title: ETCカードの使用に関する請負契約 ｜デジタル庁
+- og:image: https://storage.googleapis.com/production-os-assets/assets/8f02b16f-3f50-44cb-a347-3b73c33e590f
+- og:description: デジタル庁は、デジタル社会形成の司令塔として、未来志向のDXを大胆に推進し、デジタル時代の官民のインフラを今後5年で一気呵成に作り上げることを目指します。
+- og:url: https://www.digital.go.jp/procurement/posts/Zo6whCVc
+
+## https://www.digital.go.jp/meeting/posts/AcLOjFsQ
+
+- https://schema.org/datePublished: 2021-10-01
+- og:type: website
+- og:site_name: デジタル庁
+- og:title: マイナンバーカードの普及と健康保険証利用に関する関係府省庁会議（第5回） ｜デジタル庁
+- og:image: https://storage.googleapis.com/production-os-assets/assets/8f02b16f-3f50-44cb-a347-3b73c33e590f
+- og:description: デジタル庁は、デジタル社会形成の司令塔として、未来志向のDXを大胆に推進し、デジタル時代の官民のインフラを今後5年で一気呵成に作り上げることを目指します。
+- og:url: https://www.digital.go.jp/meeting/posts/AcLOjFsQ
+
+## https://www.digital.go.jp/meeting/posts/gQ6Pun4A
+
+- https://schema.org/datePublished: 2021-09-30
+- og:type: website
+- og:site_name: デジタル庁
+- og:title: 地方公共団体の基幹業務等システムの統一・標準化に関する関係府省会議 ｜デジタル庁
+- og:image: https://storage.googleapis.com/production-os-assets/assets/8f02b16f-3f50-44cb-a347-3b73c33e590f
+- og:description: デジタル庁は、デジタル社会形成の司令塔として、未来志向のDXを大胆に推進し、デジタル時代の官民のインフラを今後5年で一気呵成に作り上げることを目指します。
+- og:url: https://www.digital.go.jp/meeting/posts/gQ6Pun4A
+
+## https://www.digital.go.jp/meeting/posts/EQfDTVuA
+
+- https://schema.org/datePublished: 2021-09-29
+- og:type: website
+- og:site_name: デジタル庁
+- og:title: デジタル庁コンプライアンス委員会 ｜デジタル庁
+- og:image: https://storage.googleapis.com/production-os-assets/assets/8f02b16f-3f50-44cb-a347-3b73c33e590f
+- og:description: デジタル庁は、デジタル社会形成の司令塔として、未来志向のDXを大胆に推進し、デジタル時代の官民のインフラを今後5年で一気呵成に作り上げることを目指します。
+- og:url: https://www.digital.go.jp/meeting/posts/EQfDTVuA
+
 ## https://www.digital.go.jp/meeting/posts/LykfW_XV
 
 - https://schema.org/datePublished: 2021-09-28
@@ -15,7 +65,7 @@
 - https://schema.org/datePublished: 2021-09-17
 - og:type: website
 - og:site_name: デジタル庁
-- og:title: コロナワクチンの接種証明書（電子交付）の仕様に関するご意見を募集します ｜デジタル庁
+- og:title: （受付終了）コロナワクチンの接種証明書（電子交付）の仕様に関するご意見を募集します ｜デジタル庁
 - og:image: https://storage.googleapis.com/studio-cms-assets/projects/4BqNmnYVOr/s-1200x630_v-fms_webp_581dc15e-2494-487d-91d0-1957edebdd08.png
 - og:description: デジタル庁は、デジタル社会形成の司令塔として、未来志向のDXを大胆に推進し、デジタル時代の官民のインフラを今後5年で一気呵成に作り上げることを目指します。
 - og:url: https://www.digital.go.jp/posts/ckWVVAya

@@ -1,15 +1,29 @@
 import { parseOGP } from "https://js.sabae.cc/parseOGP.js";
 import { CSV } from "https://js.sabae.cc/CSV.js";
 import { Markdown } from "https://code4fukui.github.io/Markdown/Markdown.js";
+import { fetchCurl } from "https://js.sabae.cc/fetchCurl.js";
+
+const useCurl = false;
+const fetchHTML = async (url) => {
+  if (useCurl) {
+    return await fetchCurl(url);
+  } else {
+    const res = await fetch(url);
+    const headers = res.headers;
+    // console.log(headers); // 更新日取得できず
+    const html = await res.text();
+    return html;
+  }
+};
 
 const data = CSV.toJSON(await CSV.fetch("../news-url.csv"));
 //const data2 = CSV.toJSON(await Deno.readTextFile("../news.csv"));
 for (const d of data) {
 
-  const res = await fetch(d["https://schema.org/url"]);
-  const headers = res.headers;
-  // console.log(headers); // 更新日取得できず
-  const html = await res.text();
+  const url = d["https://schema.org/url"];
+  console.log(url);
+  const html = await fetchHTML(url);
+
   const ogp = parseOGP(html);
   Object.assign(d, ogp);
   console.log(ogp);
