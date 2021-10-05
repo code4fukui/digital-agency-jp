@@ -1,5 +1,35 @@
 # https://schema.org/url
 
+## https://www.digital.go.jp/posts/4vlrFBy3
+
+- https://schema.org/datePublished: 2021-10-05
+- og:type: website
+- og:site_name: デジタル庁
+- og:title: 新しいアイデアボックスが始まります ｜デジタル庁
+- og:image: https://storage.googleapis.com/studio-cms-assets/projects/4BqNmnYVOr/s-1200x630_v-fms_webp_527aabc1-9e9e-4ba0-baff-eeb2db566118.png
+- og:description: デジタル庁は、デジタル社会形成の司令塔として、未来志向のDXを大胆に推進し、デジタル時代の官民のインフラを今後5年で一気呵成に作り上げることを目指します。
+- og:url: https://www.digital.go.jp/posts/4vlrFBy3
+
+## https://www.digital.go.jp/about/member
+
+- https://schema.org/datePublished: 2021-10-05
+- og:type: website
+- og:site_name: デジタル庁
+- og:title: 幹部｜デジタル庁
+- og:image: https://storage.googleapis.com/production-os-assets/assets/8f02b16f-3f50-44cb-a347-3b73c33e590f
+- og:description: デジタル庁は、デジタル社会形成の司令塔として、未来志向のDXを大胆に推進し、デジタル時代の官民のインフラを今後5年で一気呵成に作り上げることを目指します。
+- og:url: https://www.digital.go.jp/about/member
+
+## https://www.digital.go.jp/procurement/posts/l4j2xC2d
+
+- https://schema.org/datePublished: 2021-10-04
+- og:type: website
+- og:site_name: デジタル庁
+- og:title: デジタル庁におけるガバメント・クラウド整備のためのクラウドサービスの提供－令和3年度地方公共団体による先行事業及びデジタル庁WEBサイト構築業務－ ｜デジタル庁
+- og:image: https://storage.googleapis.com/production-os-assets/assets/8f02b16f-3f50-44cb-a347-3b73c33e590f
+- og:description: デジタル庁は、デジタル社会形成の司令塔として、未来志向のDXを大胆に推進し、デジタル時代の官民のインフラを今後5年で一気呵成に作り上げることを目指します。
+- og:url: https://www.digital.go.jp/procurement/posts/l4j2xC2d
+
 ## https://www.digital.go.jp/recruit/career
 
 - https://schema.org/datePublished: 2021-10-01
