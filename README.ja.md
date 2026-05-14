@@ -12,7 +12,7 @@
 
 - **[News Display App](https://code4fukui.github.io/digital-agency-jp/)**: デジタル庁の公式ウェブサイトおよびnote.comブログからの最新ニュースと記事のギャラリービュー。生成された `news.csv` および `note.csv` を使用して作成されています。
 - **[Personnel Search App](https://code4fukui.github.io/digital-agency-jp/digital-agency-person.html)**: デジタル庁の役員および職員の検索およびフィルタ可能なテーブル。`digital-agency-person.csv` によって動作します。
-- **[GIGA School Survey Results](https://code4fukui.github.io/digital-agency-jp/GIGA%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E6%A7%8B%E6%83%B3%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A8%E3%81%AE%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%88%E3%81%AE%E5%8F%96%E3%82%8A%E3%81%BE%E3%81%A8%E3%82%81%E7%B5%90%E6%9E%9C/)**: GIGA School Initiative 調査に関する連名大臣メッセージのシンプルなビューア。
+- **[GIGA School Survey Results](https://github.com/code4fukui/digital-agency-jp)**: GIGA School Initiative 調査に関する連名大臣メッセージのシンプルなビューア。
 
 ## データセット
 
